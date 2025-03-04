@@ -1,0 +1,27 @@
+
+.communities-container {
+    display: flex;
+    width: 30%;
+    border: 4px gray solid;
+    border-radius: 20px;
+    flex-direction: column;
+    width: 400px;
+    height: fit-content;
+    background-color: pink;
+}
+
+.communities-container h3 {
+    border-bottom: 4px gray solid;
+}
+
+
+
+.communities-info {
+    padding-left: 20px;
+}
+
+.communities-info:hover {
+    background-color: hsl(351, 100%, 80%);
+    cursor: pointer;
+    border-radius: 20px;
+}

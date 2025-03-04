@@ -1,0 +1,13 @@
+.searchbar {
+    border-radius: 20px;
+    font-size: 20px;
+}
+
+.searchbutton {
+    font-size: 20px;
+    border-radius: 20px;
+}
+
+.searchbutton:hover {
+    background-color: lightgray;
+}
